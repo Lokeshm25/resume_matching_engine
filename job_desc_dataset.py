@@ -1,4 +1,4 @@
-JOBDESCRIPTIONDATASET = [
+JOB_DESCRIPTION_DATASET = [
     {
         "id": 1,
         "title": "ML Engineer",
